@@ -1,4 +1,4 @@
-package Practice01;
+package ClassAndObjects;
 
 public class Teacher {
     String name;
